@@ -1,5 +1,4 @@
 ### Olá 👋 eu sou Hugo Davi
-- Procurando emprego
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hugo-Davi&show_icons=true&count_private=true&theme=dracula)
 
 ## Linguagens mais usadas
