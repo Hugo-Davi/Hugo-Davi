@@ -3,6 +3,9 @@
 
 ## Linguagens mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Davi&layout=compact&langs_count=7&theme=dracula&exclude_lang=html,css)](https://github.com/Hugo-Davi)
+<div>
+<a href="https://github.com/Hugo-Davi">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Davi&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugo-Davi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HugoDavi)](https://github.com/anuraghazra/github-readme-stats)
