@@ -1,10 +1,6 @@
 ### Olá 👋 eu sou Hugo Davi
 - Procurando emprego
-<div>
-<a href="https://github.com/Hugo-Davi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Davi&layout=compact&langs_count=7&theme=dracula&exclude_lang=html,css,scss"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugo-Davi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Hugo Davi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Hugo-Davi&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Hugo-Davi)
 <!--
 **Hugo-Davi/Hugo-Davi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
