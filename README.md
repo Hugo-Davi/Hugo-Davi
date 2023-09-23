@@ -1,5 +1,6 @@
-<img src="recife.jpg" width="100%"/>
-## Olá 👋 eu sou Hugo Davi
+<div style="margin: 0 5%">
+  <img src="recife.jpg" width="100%"/>
+</div>
 
 
 ### Eu faço algumas coisas em
