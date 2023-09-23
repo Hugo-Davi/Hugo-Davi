@@ -1,4 +1,4 @@
-<div style="margin: 0 5%">
+<div>
   <img src="recife.jpg" width="100%"/>
 </div>
 
